@@ -10,12 +10,12 @@ const projetos = [
     emoji: "🍕",
   },
   {
-    titulo: "Site para Clínica",
+    titulo: "Eletrolink Manutenções",
     descricao:
-      "Site institucional para clínica odontológica com agendamento online e apresentação da equipe.",
-    tags: ["React", "Tailwind"],
-    link: "#",
-    emoji: "🦷",
+      "Site institucional completo para empresa de manutenção elétrica com sistema de orçamentos e painel administrativo.",
+    tags: ["React", "TypeScript", "Tailwind"],
+    link: "https://www.eletrolinkmanutencoes.com",
+    emoji: "⚡",
   },
   {
     titulo: "Dashboard com SQL",
