@@ -44,7 +44,7 @@ function Projetos() {
           Alguns projetos que desenvolvi para o meu portfólio
         </p>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           {projetos.map((p) => (
             <div
               key={p.titulo}
